@@ -1,12 +1,12 @@
 [
-  {"value_name"="Средняя скорость",
-   "value_symbol"="Vср",
-   "numerator" = ["s"],
-   "denominator"  =["t"]},
+  {"value_name":"Средняя скорость",
+   "value_symbol":"Vср",
+   "numerator" : ["s"],
+   "denominator"  : ["t"]},
 
-  {"value_name"="Расстояние",
-   "value_symbol"="s",
-   "numerator" = ["v","t"],
-   "denominator"  =[]}
+  {"value_name":"Расстояние",
+   "value_symbol":"s",
+   "numerator" : ["v","t"],
+   "denominator"  :[]}
    
 ]
