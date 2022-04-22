@@ -2,8 +2,7 @@
   {
     "value_name"="Плотность",
     "value_symbol"="ρ",
-    "numerator" = "m",
-    "denominator" = "V"
+    "numerator" = ["m"],
+    "denominator" = ["V"]
   }
-
 ]
