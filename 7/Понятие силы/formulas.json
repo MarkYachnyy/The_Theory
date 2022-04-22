@@ -1,7 +1,6 @@
 [
-  {"value_name"="Сила тяжести",
-   "value_symbol"="Fт",
-   "numerator" = ["m","g"],
-   "denominator" = 
-   
+  {"value_name":"Сила тяжести",
+   "value_symbol":"Fт",
+   "numerator" : ["m","g"],
+   "denominator" :[] 
 ]
