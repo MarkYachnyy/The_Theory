@@ -1,5 +1,13 @@
 [
   {
+    "exercise" : "Медную деталь массой 7,1 кг полностью погружают в бак, доверху наполненный керосином. Какова масса вылившегося керосина?",
+    "right_answer" : "answer_2"
+  },
+  {
+    "exercise" : "test_task_2",
+    "right_answer" : "answer_2"
+  },
+  {
     "exercise" : "test_task_2",
     "right_answer" : "answer_2"
   }
