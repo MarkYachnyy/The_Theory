@@ -2,5 +2,10 @@
   {"value_name":"Сила тяжести",
    "value_symbol":"Fт",
    "numerator" : ["m","g"],
-   "denominator" :[]} 
+   "denominator" :[]},
+  
+  {"value_name":"Сила упругости",
+   "value_symbol":"Fу",
+   "numerator" : ["k","x"],
+   "denominator" :[]}
 ]
