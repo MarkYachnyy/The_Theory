@@ -2,5 +2,9 @@
   {"value_name":"Давление",
    "value_symbol":"p",
    "numerator":["F"],
-   "denominator":["S"]}
+   "denominator":["S"]},
+  {"value_name":"Давление жидкости",
+   "value_symbol":"p",
+   "numerator":["ρ","g","h"],
+   "denominator":[]}
 ]
