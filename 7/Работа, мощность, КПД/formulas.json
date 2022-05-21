@@ -1,0 +1,11 @@
+[
+  {"value_name":"Работа",
+   "value_symbol":"A",
+   "numerator" : ["F","t"],
+   "denominator"  : []},
+
+  {"value_name":"Мощность",
+   "value_symbol":"N",
+   "numerator" : ["A"],
+   "denominator"  :["t"]}
+]
